@@ -1,4 +1,4 @@
-namespace Absalyamov_WEB1.Models
+namespace MvcMovie.Models
 {
     public class ErrorViewModel
     {

@@ -1,8 +1,8 @@
-﻿using Absalyamov_WEB1.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using MvcMovie.Models;
 using System.Diagnostics;
 
-namespace Absalyamov_WEB1.Controllers
+namespace MvcMovie.Controllers
 {
     public class HomeController : Controller
     {
